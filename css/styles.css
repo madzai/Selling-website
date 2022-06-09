@@ -5,7 +5,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
-  /* font-family: 'Montserrat-Bold'; */
 }
 
 p {
@@ -17,7 +16,6 @@ p {
   font-size: 3.5rem;
   line-height: 1.5;
   font-weight: bold;
-  /* font-family: 'Montserrat-Black'; */
 }
 
 .section-heading {
@@ -59,7 +57,6 @@ p {
   font-size: 1.2rem;
   font-family: 'Montserrat';
   font-weight: lighter;
-  /* font-family: 'Montserrat-Light'; */
 }
 
 /* Download buttons */
@@ -70,7 +67,6 @@ p {
 /* Title section */
 #title .container-fluid {
   padding: 3% 15% 7%;
-  /* padding: 3% 15%; */
   text-align: left;
 }
 
@@ -79,13 +75,11 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
-  /* z-index: -1; */
 }
 
 /* features section */
 #features {
    position: relative;
-   /* z-index: 1; */
 }
 
 .feature-title {
@@ -149,11 +143,9 @@ p {
 /* cta & footer */
 #footer {
   background-color: #fff;
-  /* padding-top: 100px; */
 }
 
 .footer-icon {
-  /* padding: 0.5%; */
   margin: 20px 10px;
 }
 
